@@ -1,0 +1,55 @@
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.3013271684758365
+  lightness: 0.9551992213819176
+  saturation: 0.06730345287360251
+  rhythmicContrast: 0.5242156186141074
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Hawaiianmonarch.com
+layout_spectrum: 0.9674974624067545
+typography_spectrum: 0.8730588657781482
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c66c39ff-fb7b-49b2-ab2d-f35b3cad50e0.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c66c39ff-fb7b-49b2-ab2d-f35b3cad50e0.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Hawaiianmonarch.org
+description: Continuously Improving
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7571eba0-6258-4b06-8f87-a862ff0448d3.gif
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1098277-6423-48c3-b16f-0edc6ccdced8.jpg
+author:
+  name: ''
